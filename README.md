@@ -24,7 +24,9 @@ Installation
 
 Clone the repository
 
-Copy git clone https://github.com/yourusername/react-user-management.git
+Copy git clone https://github.com/PayalSrivastava26/React_User_Manageme
+nt_App.git
+
 cd react-user-management
 
 Install dependencies
